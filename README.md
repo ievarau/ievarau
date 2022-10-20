@@ -1,6 +1,6 @@
 <h1 align="center"> Ieva Rauluseviciute </h1>
 
-<h2 align="center"> PhD student</h2>
+<h2 align="center"> PhD student :snail: </h2>
 
 **Labas!** (*"Hi!"* in Lithuanian)
 
